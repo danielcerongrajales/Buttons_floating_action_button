@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/danielcerongrajales/Buttons_floating_action_button/compare/v1.1.0...v1.2.0) (2021-04-10)
+
+
+### Features
+
+*  first initial version android project ([fed0777](https://github.com/danielcerongrajales/Buttons_floating_action_button/commit/fed07778ef365688b58a8cf24c4c6647d198e301))
+
 ## [1.1.0](https://github.com/danielcerongrajales/Buttons_floating_action_button/compare/v1.0.0...v1.1.0) (2021-03-24)
 
 
